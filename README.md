@@ -1,7 +1,8 @@
-CRM
+PCM
 ===
 
-Customer Relationship Management (CRM) Software made with Swing, JDBC, MySql. This Software is a mini version which has the following features - 
+Made with Swing, JDBC, MySql.
+This Software is a mini version which has the following features - 
 - Login for employees of the Company.
 - Sell Products to customers.
 - Track the details of products.
@@ -44,14 +45,3 @@ mysql -u username -p databasename < filename.sql
 
 _So everything is setup, open the project in Netbeans to use or modify it according to your needs._
 
-## Screenshots
-
-![](http://i.imgur.com/WPnfYJU.png)
-
-![](http://i.imgur.com/ENl7OEo.png)
-
-![](http://i.imgur.com/2xPGPnj.png)
-
-![](http://i.imgur.com/Sl4aeK0.png)
-
-![](http://i.imgur.com/N8BlF0s.png)
